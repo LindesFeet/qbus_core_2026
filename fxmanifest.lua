@@ -10,3 +10,6 @@ client_scripts {
     'init.lua',
 }
 
+server_scripts {
+                                   'main-server.lua'
+}
